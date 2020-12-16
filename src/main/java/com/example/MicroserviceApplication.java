@@ -1,4 +1,4 @@
-package com.gtoumie.example;
+package com.example;
 
 import java.util.ArrayList;
 import java.util.HashSet;

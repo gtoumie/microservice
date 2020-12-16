@@ -1,4 +1,4 @@
-package com.gtoumie.example;
+package com.example;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

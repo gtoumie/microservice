@@ -1,4 +1,4 @@
-package com.gtoumie.example;
+package com.example;
 
 
 import org.springframework.stereotype.Controller;
